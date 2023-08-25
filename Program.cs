@@ -4,6 +4,10 @@ using Plantao_UC_COD_BACK.Classes;
 string opcao = "";
 PessoaJuridica PJ = new PessoaJuridica();
 
+PessoaJuridica PJ2 = new PessoaJuridica();
+PJ2.Cnpj = "649846";
+PJ2.Nome = "Caique";
+
 do{
     Console.WriteLine(@"
     
