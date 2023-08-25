@@ -1,0 +1,15 @@
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\bin\Debug\net7.0\Plantao_UC_COD_BACK.exe
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\bin\Debug\net7.0\Plantao_UC_COD_BACK.deps.json
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\bin\Debug\net7.0\Plantao_UC_COD_BACK.runtimeconfig.json
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\bin\Debug\net7.0\Plantao_UC_COD_BACK.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\bin\Debug\net7.0\Plantao_UC_COD_BACK.pdb
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.csproj.AssemblyReference.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.AssemblyInfoInputs.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.AssemblyInfo.cs
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.csproj.CoreCompileInputs.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\refint\Plantao_UC_COD_BACK.dll
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.pdb
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\Plantao_UC_COD_BACK.genruntimeconfig.cache
+C:\Users\Caique_Zaneti\Documents\GitHub\Plantao_UC_COD_BACK\obj\Debug\net7.0\ref\Plantao_UC_COD_BACK.dll
